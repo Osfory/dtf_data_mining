@@ -1,0 +1,10 @@
+__pycache__
+/bin/
+/Scripts/
+/lib/
+/lib64
+/pyvenv.cfg
+/share/
+/etc/
+/.idea/
+/.vscode/
