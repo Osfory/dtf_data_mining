@@ -13,6 +13,9 @@ notebook
 ipykernel
 ipython
 matplotlib
+matplotlib-venn
+pywaffle
+squarify
 seaborn
 scipy
 tqdm
